@@ -1,0 +1,23 @@
+{
+  "name": "callfire-app",
+  "version": "1.0.0",
+  "description": "learning how to use the call-fire api",
+  "main": "send-sms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogparra/callfire-app.git"
+  },
+  "author": "Oscar Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogparra/callfire-app/issues"
+  },
+  "homepage": "https://github.com/ogparra/callfire-app#readme",
+  "dependencies": {
+    "callfire-api-client-js": "0.0.4",
+    "dotenv": "^6.1.0"
+  }
+}
